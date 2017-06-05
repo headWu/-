@@ -1,0 +1,25 @@
+<!--index.wxml-->
+<view class="">
+  <view  bindtap="" class="">
+   <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  <view class="wpw_one">
+  <text>装饰私人定制设计</text>
+  </view>
+  <view class="wpw_three">
+  <text>联系人：吴先生</text>
+  </view>
+  <view class=""><text>电话：18280214900</text></view>
+  <view class="wpw_two">
+  <text>声明：纯个人兴趣爱好和专业知识，并无涉及商业，想让更多的人个性化定制自己房屋。</text>
+  </view>   
+    </view>
+    <view class=""><image src="../../imgs/1.jpg"></image></view>
+    <view class=""><image src="../../imgs/2.png"></image></view>
+    <view class=""><image src="../../imgs/3.png"></image></view>
+    <view class=""><image src="../../imgs/4.png"></image></view>
+   
+    <view class=""><image src="../../imgs/6.jpg"></image></view>
+    <view class=""><image src="../../imgs/7.jpg"></image></view>
+
+ </view>

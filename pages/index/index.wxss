@@ -1,0 +1,35 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.wpw_one {
+  padding: 10px;
+  margin: 10px;
+font-size: 25px;
+text-align: center;
+font-family: "黑体"
+}
+.wpw_two {
+
+}
+
+.wpw_three {
+
+}
